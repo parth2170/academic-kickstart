@@ -66,4 +66,5 @@ user_groups:
 - Visitors
 ---
 
-I'm a final year undergraduate student at IIT Kharagpur. I spent a good amount of my college life appreciating and learning the power of data science and machine learning. In the long term, I aim to work towards making deep learning more interpretable and scalable.
+I'm a final year undergraduate student at IIT Kharagpur. I spent a good amount of my college life appreciating and learning the power of data science and machine learning. I aim to work towards making deep learning more interpretable and scalable. 
+
