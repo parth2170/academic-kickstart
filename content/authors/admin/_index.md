@@ -66,5 +66,5 @@ user_groups:
 - Visitors
 ---
 
-I'm a final year undergraduate student at IIT Kharagpur. I spent a good amount of my college life appreciating and learning the power of data science and machine learning. I aim to work towards making deep learning more interpretable and scalable. 
+I'm a final year undergraduate student at Indian Institute Technology Kharagpur. Two of my favourite quotes are: (i) *"The simplest explanation is most likely the right one"* (Occam's razor) (ii) *"For every complex problem, there's a solution that is simple, neat, and wrong"* (H.L. Mencken). I try to find a balance between these ideas whenever I'm hustling with a problem. A good amount of my time is spent appreciating the capabilities and applications of statistics and artificial intelligence. I've worked in differnt domains of machine learning like Recommender Systems, Anomalous Sound Detection, Segmentation in Satellite Imagery etc. I aim to work towards making deep learning more interpretable and use it to solve some real-world problems in my country. I spend my free time playing guitar or hiking in the Himalayas. Currently, I'm exploring the world of open-source.
 

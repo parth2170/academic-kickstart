@@ -87,7 +87,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "parth.tiwari95 [at] { gmail.com , iitkgp.ac.in }"
+email = "parth.tiwari95@gmail.com  ,  parth.tiwari95@iitkgp.ac.in"
 phone = ""
 
 # Address
@@ -112,9 +112,9 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "twitter", link = "https://twitter.com/parth__t"},
-  #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  {icon = "skype", icon_pack = "fab", name = "Skype", link = "skype:parth2170"},
+  {icon = "medium", icon_pack = "fab", name = "Medium", link = "https://medium.com/@parthtiwari_39271"},
+  {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/parth-tiwari-85b61b138/"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
@@ -183,7 +183,7 @@ plugins_js  = []
   gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
-  shape = "circle"
+  shape = "square"
 
 # Available address formats.
 [address_formats]
